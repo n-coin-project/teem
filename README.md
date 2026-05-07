@@ -34,12 +34,13 @@ The universe is not expanding due to an unknown external force. Instead, it auto
 
 ## 📁 Repository Structure
 
-### /doc/
-- **TEEM_Main_Paper.pdf** — Full manuscript introducing the Triple Energy Equivalence Model.
-- **TEEM_Supplementary_Notes.pdf** — Supplementary document explaining interpretations, physical implications, and connections to modern physics.
+## 📄 Documents
 
-### README.md
-- Overview of TEEM, links to documents, and guidance for researchers.
+- [**TEEM Main Paper (PDF)**](doc/TEEM_Main_Paper.pdf)  
+  The primary manuscript introducing the Triple Energy Equivalence Model.
+
+- [**TEEM Supplementary Notes (PDF)**](doc/TEEM_Supplementary_Notes.pdf)  
+  Conceptual and interpretative supplement covering v, m, R and their physical implications.
 
 ## 🤝 Contributing & Discussion
 
