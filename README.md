@@ -1,90 +1,146 @@
-# 🌌 Triple Energy Equivalence Model
+# 🌌 Triple Energy Equivalence Model (TEEM)
 
-**Construction of a Universal Cyclic Model based on Triple Energy Equivalence**
+**A Unified Energetic Framework for Cosmology, Gravity, Observation, and Light**
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Status: Concept/Ver_1.0](https://img.shields.io/badge/Status-Concept%20Ver%201.0-blue.svg)]()
+[![Status: TEEM Series / 2026](https://img.shields.io/badge/Status-TEEM%20Series%202026-blue.svg)]()
 
-## 📖 About This Project
+---
 
-This repository hosts the foundational paper and theoretical framework for the **Triple Energy Equivalence Model**[cite: 2]. 
+## 📖 About This Repository
 
-This model proposes a new paradigm that eliminates unverified hypothetical elements like "Dark Energy" and "Dark Matter" from modern astrophysics (the $\Lambda$-CDM model)[cite: 2]. By returning to the fundamental principle of energy conservation, it elegantly explains cosmic expansion and cyclic recurrence[cite: 2]. 
+This repository contains the complete **TEEM Series**, a unified physical framework based on the  
+**Tension–Energy Exchange Model (TEEM)**.
 
-This project represents the ultimate "refactoring" of the universe's source code[cite: 2].
+TEEM replaces the fragmented structure of modern physics (forces, fields, dark matter, dark energy,  
+quantum measurement axioms) with a single energetic principle:
 
-## 📐 The Core Equation
+> **All physical phenomena arise from the exchange of energy among three modes:**  
+> **vibrational (v), condensed (m), and spatial tension (R).**
 
-At the heart of this model lies a single energy conservation equation[cite: 2]:
+This repository includes:
 
-$$E = \alpha \nu + \beta m + \gamma R$$
+- **TEEM 2.0** — cosmology  
+- **TEEM‑CMB** — early‑universe structure  
+- **TEEM‑DM** — galactic dynamics  
+- **TEEM‑BH** — black‑hole physics  
+- **TEEM‑FLT** — observation, light, and the structure of time
 
-* **$\alpha \nu$ (Vibrational Energy):** The primordial vibrational energy (heat, frequency, and time)[cite: 2].
-* **$\beta m$ (Invariant Mass):** The invariant mass energy that supports structure (the cosmic anchor)[cite: 2].
-* **$\gamma R$ (Spatial Energy / Tension):** The tension (potential energy) stored in the expansion of space[cite: 2].
+Together, these five papers form a complete, self‑consistent physical theory.
 
-The universe is not expanding due to an unknown external force. Instead, it autonomously "respires" through the continuous, linear exchange of energy among these three states[cite: 2].
+---
 
-## 🚀 Key Paradigms
+## ⚛️ The Core Equation
 
-1. **Dismantling Dark Energy:**  
-   The accelerated expansion of the universe is merely a geometric projection (an apparent acceleration) of the linear conversion process where cosmic cooling (decrease in $\nu$) directly "pays" for new space (increase in $R$)[cite: 2].
+At the heart of TEEM lies a single linear energy relation:
 
-2. **Eliminating Dark Matter:**  
-   The force tethering stars at the outer edges of galaxies is not an unknown, invisible mass. It is the intrinsic "restorative force" (tension: $\gamma R$) of the stretched spatial grid itself[cite: 2].
 
-3. **Black Holes as Transmutation Engines:**  
-   Black holes are not infinite singularities. They are engines that forcibly convert mass and space, once they reach maximum compression, back into primordial vibration ($\alpha \nu$), triggering a "Big Bounce"[cite: 2].
 
-4. **Our Current Cosmic Position:**  
-   The current universe is at the "midpoint" of its cycle—a state of near-equilibrium among vibrational, mass, and spatial energies, which naturally allows for the existence of complex structures like galaxies and life[cite: 2].
+$$
+E = \alpha v + \beta m + \gamma R
+$$
 
-## 📁 Repository Structure
+
+
+Where:
+
+- **v** — vibrational energy (radiation, oscillation, thermal motion)  
+- **m** — condensed energy (matter, inertia, structure)  
+- **R** — spatial tension (the energetic state of spacetime itself)
+
+This equation replaces:
+
+- dark energy  
+- dark matter  
+- geometric curvature  
+- quantum measurement axioms  
+
+with a single energetic mechanism.
+
+---
+
+## 📚 TEEM Series — Document Overview
 
 ```
 /doc/
   ├── TEEM_2.0.pdf
-  ├── TEEM_Main_Paper.pdf
-  ├── TEEM_Supplementary_Notes.pdf
   ├── TEEM_CMB.pdf
   ├── TEEM_DM.pdf
-  └── TEEM_BH.pdf
+  ├── TEEM_BH.pdf
+  └── TEEM_FLT.pdf
 ```
 
-## 📄 Documents
+---
 
-- **[TEEM 2.0 Main Paper (PDF)](doc/TEEM_2.0.pdf)**  
-  The latest and complete formulation of the Triple Energy Equivalence Model, including the unified energy equation, cosmological implementation, and observational predictions.
+## 🧩 TEEM Series (Primary Papers)
 
-- **[TEEM Main Paper (PDF)](doc/TEEM_Main_Paper.pdf)**  
-  Earlier manuscript introducing the foundational TEEM framework and initial derivations.
+### **1. TEEM 2.0 — Cosmology**
+**[PDF](doc/TEEM_2.0.pdf)**  
+A one‑parameter cosmology where spatial tension replaces dark energy and dark matter.  
+Predicts a finite maximum cosmic scale and a future halt of expansion.
 
-- **[TEEM Supplementary Notes (PDF)](doc/TEEM_Supplementary_Notes.pdf)**  
-  Conceptual and interpretative supplement covering the roles of v-energy, m-energy, and R-energy.
+---
 
-## 🔬 Additional Research Files
+### **2. TEEM‑CMB — Early Universe**
+**[PDF](doc/TEEM_CMB.pdf)**  
+Residual R/m structures from the partial reset generate primordial fluctuations,  
+acoustic peaks, and early galaxy formation without inflation.
 
-- **[TEEM_CMB.pdf](doc/TEEM_CMB.pdf)**  
-  Early‑universe structure, residual R/m fields, and CMB‑scale coherence.
+---
 
-- **[TEEM_DM.pdf](doc/TEEM_DM.pdf)**  
-  Galactic rotation curves, dwarf‑galaxy behavior, and R‑gradient dynamics reproducing MOND‑like phenomenology.
+### **3. TEEM‑DM — Galactic Dynamics**
+**[PDF](doc/TEEM_DM.pdf)**  
+Galactic rotation curves arise from **R‑gradients**, not dark matter halos.  
+Explains LSB galaxies, dwarfs, and MOND‑like behavior.
 
-- **[TEEM_BH.pdf](doc/TEEM_BH.pdf)**  
-  A non‑singular black‑hole model based on R‑saturation and partial reset, providing a natural bounce mechanism.
+---
+
+### **4. TEEM‑BH — Black Holes**
+**[PDF](doc/TEEM_BH.pdf)**  
+Black holes are **R‑saturation engines**, not singularities.  
+Information is preserved through R‑reconfiguration.
+
+---
+
+### **5. TEEM‑FLT — Foundations: Observation, Light, and Time**
+**[PDF](doc/TEEM_FLT.pdf)**  
+The microphysical basis of TEEM:
+
+- observation = vibrational energy injection  
+- light = v↔R conversion process  
+- time = v/R  
+- static states are physically unobservable  
+- R‑field engineering as a future technology
+
+This paper unifies quantum measurement, optics, relativity, and thermodynamics  
+under a single energetic principle.
+
+---
+
+## 🗂 Archived Documents (Historical)
+
+These remain for reference but are superseded by the TEEM Series and no longer represent the latest formulation:
+
+- **TEEM_Main_Paper.pdf**  
+- **TEEM_Supplementary_Notes.pdf**
+
+---
 
 ## 🤝 Contributing & Discussion
 
-We welcome open discussion, rigorous debate, and verification. Physicists, mathematicians, data scientists, and developers interested in the fundamental mechanics of the universe are encouraged to contribute.
+We welcome open discussion, rigorous debate, and verification.
 
-* **Issues:** If you find discrepancies with existing observational data or have feedback regarding the mathematical framework, please open an Issue.  
-* **Pull Requests:** Refinements to the academic English, formatting, or the addition of mathematical models (e.g., expansion simulations in Python or Mathematica) are highly appreciated.
+- **Issues:** Report inconsistencies, propose tests, or request clarifications.  
+- **Pull Requests:** Improvements to English, diagrams, or mathematical modeling are appreciated.
+
+---
 
 ## 📄 License
 
-This work is dedicated to the public domain under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](http://creativecommons.org/publicdomain/zero/1.0/).  
-You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. While not legally required, citing the original author `NS (2026 May)` when building upon this foundational framework is highly appreciated in the spirit of open science[cite: 2].
+This work is dedicated to the public domain under **CC0‑1.0**.  
+Attribution to *NS (2026 May)* is appreciated but not required.
 
 ---
-*"The universe is not as 'dark' as we have feared.  
-It is a brilliant, vibrating system of energy, performing a grand, eternal dance of transformation."*[cite: 2]
+
+> *“The universe is not dark.  
+> It is a continuous exchange of energy—vibrating, condensing, and stretching itself into form.”*
