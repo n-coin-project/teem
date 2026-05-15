@@ -15,7 +15,8 @@ This repository contains the complete **TEEM Series**, a unified physical framew
 TEEM replaces the fragmented structure of modern physics (forces, fields, dark matter, dark energy,  
 quantum measurement axioms) with a single energetic principle:
 
-> **All physical phenomena arise from the exchange of energy among three fundamental modes:** > **vibrational (v), condensed (m), and spatial tension (R).**
+> **All physical phenomena arise from the exchange of energy among three fundamental modes:**  
+> **vibrational (v), condensed (m), and spatial tension (R).**
 
 This repository has been updated to the **TEEM 3.0 / 2.0 Series**, including:
 
@@ -24,9 +25,9 @@ This repository has been updated to the **TEEM 3.0 / 2.0 Series**, including:
 - **TEEM-CMB 2.0** — Tension-Field Interpretation of CMB Anisotropies  
 - **TEEM-DM 2.0** — Energetic Galactic Dynamics  
 - **TEEM-BH 2.0** — Energetic Black Hole Physics  
-- **TEEM-FLT 2.0** — Foundations of Everyday Physics  
+- **TEEM-Matter (TEEM-FT 3.0)** — Energetic Interpretation of Light, Matter, and Measurement  
 
-Together, these six papers form a complete, self-consistent physical theory that completely removes the need for dark components.
+Together, these six papers form a complete, self-consistent physical theory that removes the need for dark components.
 
 ---
 
@@ -51,46 +52,44 @@ This equation replaces:
 - geometric curvature  
 - quantum measurement axioms  
 
-with a single energetic mechanism, where gravity arises from gradients in the combined energetic potential $(m+R)$ and the flow of time emerges from the ratio $(v/R)$.
+with a single energetic mechanism, where gravity arises from gradients in the combined energetic potential (m+R) and the flow of time emerges from the ratio (v/R).
 
 ---
 
 ## 📚 TEEM Series — Document Overview
 
-```text
-/doc/
-  ├── TEEM3.0.pdf
-  ├── TEEM_Cosmic_Tension_Landscape.pdf
-  ├── TEEM_CMB2.0.pdf
-  ├── TEEM_DM2.0.pdf
-  ├── TEEM_BH2.0.pdf
-  └── TEEM_Matter.pdf
-```
+/ doc /  
+• TEEM3.0.pdf  
+• TEEM_Cosmic_Tension_Landscape.pdf  
+• TEEM_CMB2.0.pdf  
+• TEEM_DM2.0.pdf  
+• TEEM_BH2.0.pdf  
+• TEEM_Matter.pdf
 
 ---
 
 ## 🧩 TEEM Series (Primary Papers)
 
 ### **1. TEEM 3.0 — Unified Energy-Based Physics of the Universe**
-**[PDF](doc/TEEM3.0.pdf)** Presents the unified energetic framework that replaces geometric foundations of modern cosmology. Derives an analytic Hubble law, eliminates dark matter/energy, and introduces the Cosmic Tension Landscape to resolve major cosmological tensions.
+Presents the unified energetic framework that replaces geometric foundations of modern cosmology. Derives an analytic Hubble law, eliminates dark matter/energy, and introduces the Cosmic Tension Landscape to resolve major cosmological tensions.
 
 ### **2. TEEM Cosmic Tension Landscape — Unified Constraints**
-**[PDF](doc/TEEM_Cosmic_Tension_Landscape.pdf)** A joint analysis of Type Ia Supernovae, BAO, and global measurements of the Hubble constant under the TEEM framework. Reconstructs $R(z)$ to provide a unified explanation for the $H_0$ tension and BAO anomalies.
+A joint analysis of Type Ia Supernovae, BAO, and global measurements of the Hubble constant under the TEEM framework. Reconstructs R(z) to provide a unified explanation for the H₀ tension and BAO anomalies.
 
 ### **3. TEEM-CMB 2.0 — Early Universe & CMB Anisotropies**
-**[PDF](doc/TEEM_CMB2.0.pdf)** Shows that CMB anisotropies arise not only from photon temperature fluctuations but also from the tension field ($\delta R$). Explains the suppression of odd peaks, enhanced even peaks, and large-scale anisotropies via primordial tension fluctuations.
+Shows that CMB anisotropies arise not only from photon temperature fluctuations but also from the tension field (δR). Explains the suppression of odd peaks, enhanced even peaks, and large-scale anisotropies via primordial tension fluctuations.
 
 ### **4. TEEM-DM 2.0 — Energetic Galactic Dynamics**
-**[PDF](doc/TEEM_DM2.0.pdf)** Galactic rotation curves arise from **R-gradients**, not dark matter halos. Explains cored inner regions, transition shoulders, flat outer velocities, and MOND-like behavior as a slow-time regime ($v/R \ll 1$).
+Galactic rotation curves arise from **R-gradients**, not dark matter halos. Explains cored inner regions, transition shoulders, flat outer velocities, and MOND-like behavior as a slow-time regime (v/R ≪ 1).
 
 ### **5. TEEM-BH 2.0 — Energetic Black Hole Physics**
-**[PDF](doc/TEEM_BH2.0.pdf)** Black hole horizons correspond to an R-critical surface where $v/R \rightarrow 0$. Replaces the classical singularity with a finite-tension core. Explains entropy via boundary tension modes and demonstrates how information is preserved through R-reconfiguration.
+Black hole horizons correspond to an R-critical surface where v/R → 0. Replaces the classical singularity with a finite-tension core. Explains entropy via boundary tension modes and demonstrates how information is preserved through R-reconfiguration.
 
-### **6. TEEM-Matter — Foundations of Everyday Physics**
-**[PDF](doc/TEEM_Matter.pdf)** The microphysical basis of TEEM, explaining optical propagation, material behavior, and measurement limits:
-- observation = injects vibrational energy, distorts the R-field
-- light = oscillatory conversion between $v$ and $R$
-- material parameters = R-softness and R-stiffness
+### **6. TEEM-Matter (TEEM-FT 3.0) — Energetic Interpretation of Light, Matter, and Measurement**
+The microphysical basis of TEEM, explaining optical propagation, material behavior, and measurement limits:  
+• observation = injects vibrational energy, distorts the R-field  
+• light = oscillatory conversion between v and R  
+• material parameters = R-softness and R-stiffness  
 Establishes a direct continuity between atomic physics and cosmology.
 
 ---
