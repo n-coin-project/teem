@@ -59,24 +59,27 @@ This single mechanism unifies cosmology, matter physics, optics, and quantum beh
 
 ## 🚀 Key Empirical Results (2026)
 
-- **SN Ia (732 samples)**  
-  ΛCDM χ² = 3620.35  
-  NEO‑TEEM χ² = **2803.25**  
-  → **22% improvement**
+- **Type Ia Supernovae (732 samples)**  
+  ΛCDM: χ² = 3620.35  
+  NEO‑TEEM: χ² = **2803.25**  
+  → **22% improvement in fit quality**
 
-- **BAO tension resolved**  
-  R(z) plateau at z ≈ 0.5 reproduces observed 2–5% excess in `D_M`.
+- **BAO Distance Excess**  
+  R(z) plateau at z ≈ 0.5 naturally reproduces the observed  
+  **2–5% excess in transverse BAO distances (D_M)**.
 
-- **Dark matter eliminated**  
-  Galactic rotation curves reproduced by **R‑field gradients**, not invisible mass.
+- **Galactic Rotation Curves (No Dark Matter)**  
+  Flat rotation curves reproduced by **R‑field gradients**,  
+  without invoking invisible mass components.
 
-- **Periodic table unified**  
-  Metals → `R < 0`  
-  Gases → `R ≈ 0`  
-  Semiconductors → `R > 2`
+- **R‑Periodic Table (Matter Unification)**  
+  Metals → **R < 0**  
+  Gases → **R ≈ 0**  
+  Semiconductors / crystals → **R > 2**
 
-- **Black holes**  
-  Finite‑information cores, no singularities, horizon = R‑boundary layer.
+- **Black Hole Structure**  
+  Finite‑information cores, no singularities,  
+  horizon = **steepest R/m boundary layer**.
 
 ---
 
