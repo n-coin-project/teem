@@ -1,120 +1,98 @@
-# 🌌 Triple Energy Exchange Model (TEEM)
-
-**A Unified Energetic Framework for Cosmology, Gravity, Observation, and Light**
-
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Status: TEEM Series / 2026](https://img.shields.io/badge/Status-TEEM%20Series%202026-blue.svg)]()
+# 🌌 NEO‑TEEM  
+### A Unified Framework of Gravity, Time, Matter, and Cosmic Expansion  
+**NS (2026)**
 
 ---
 
 ## 📖 About This Repository
 
-This repository contains the complete **TEEM Series**, a unified physical framework based on the  
-**Triple Energy Exchange Model (TEEM)**.
+This repository contains the complete **NEO‑TEEM Series**,  
+a unified physical framework in which gravity, time, entropy, cosmic expansion,  
+black holes, matter, and light all emerge from the dynamics of three fundamental energy states:
 
-TEEM replaces the fragmented structure of modern physics (forces, fields, dark matter, dark energy,  
-quantum measurement axioms) with a single energetic principle:
+- **v — vibrational energy**  
+- **m — condensed energy**  
+- **R — spatial information capacity (spatial tension)**
 
-> **All physical phenomena arise from the exchange of energy among three fundamental modes:**  
-> **vibrational (v), condensed (m), and spatial tension (R).**
+NEO‑TEEM replaces the fragmented structure of modern physics:
 
-This repository has been updated to the **TEEM 3.0 / 2.0 Series**, including:
-
-- **TEEM 3.0** — Unified Energy-Based Physics of the Universe  
-- **TEEM Cosmic Tension Landscape** — Joint Analysis of SN Ia, BAO, and the Cosmic Tension Field  
-- **TEEM-CMB 2.0** — Tension-Field Interpretation of CMB Anisotropies  
-- **TEEM-DM 2.0** — Energetic Galactic Dynamics  
-- **TEEM-BH 2.0** — Energetic Black Hole Physics  
-- **TEEM-Matter (TEEM-FT 3.0)** — Energetic Interpretation of Light, Matter, and Measurement  
-
-Together, these six papers form a complete, self-consistent physical theory that removes the need for dark components.
-
----
-
-## ⚛️ The Core Equation
-
-At the heart of TEEM lies a single linear energy relation:
-
-$$
-E = \alpha v + \beta m + \gamma R
-$$
-
-Where:
-
-- **v** — vibrational energy (radiation, oscillation, thermal motion)  
-- **m** — condensed energy (matter, inertia, structure)  
-- **R** — spatial tension (the energetic state of spacetime itself)
-
-This equation replaces:
-
-- dark energy  
 - dark matter  
+- dark energy  
 - geometric curvature  
 - quantum measurement axioms  
+- optical material constants  
 
-with a single energetic mechanism, where gravity arises from gradients in the combined energetic potential (m+R) and the flow of time emerges from the ratio (v/R).
+with a single physical quantity:
 
----
-
-## 📚 TEEM Series — Document Overview
-
-/ doc /  
-• [TEEM3.0.pdf](doc/TEEM3.0.pdf)  
-• [TEEM_Cosmic_Tension_Landscape.pdf](doc/TEEM_Cosmic_Tension_Landscape.pdf)  
-• [TEEM_CMB2.0.pdf](doc/TEEM_CMB2.0.pdf)  
-• [TEEM_DM2.0.pdf](doc/TEEM_DM2.0.pdf)  
-• [TEEM_BH2.0.pdf](doc/TEEM_BH2.0.pdf)  
-• [TEEM_Matter.pdf](doc/TEEM_Matter.pdf)
+# ⭐ **R — the spatial tension field**  
+(= the information capacity / scale of spacetime)
 
 ---
 
-## 🧩 TEEM Series (Primary Papers)
+## 📚 Included Papers (click to open)
 
-### **1. TEEM 3.0 — Unified Energy-Based Physics of the Universe**  
-[PDF](doc/TEEM3.0.pdf)  
-Presents the unified energetic framework that replaces geometric foundations of modern cosmology. Derives an analytic Hubble law, eliminates dark matter/energy, and introduces the Cosmic Tension Landscape to resolve major cosmological tensions.
-
-### **2. TEEM Cosmic Tension Landscape — Unified Constraints**  
-[PDF](doc/TEEM_Cosmic_Tension_Landscape.pdf)  
-A joint analysis of Type Ia Supernovae, BAO, and global measurements of the Hubble constant under the TEEM framework. Reconstructs R(z) to provide a unified explanation for the H₀ tension and BAO anomalies.
-
-### **3. TEEM-CMB 2.0 — Early Universe & CMB Anisotropies**  
-[PDF](doc/TEEM_CMB2.0.pdf)  
-Shows that CMB anisotropies arise not only from photon temperature fluctuations but also from the tension field (δR). Explains the suppression of odd peaks, enhanced even peaks, and large-scale anisotropies via primordial tension fluctuations.
-
-### **4. TEEM-DM 2.0 — Energetic Galactic Dynamics**  
-[PDF](doc/TEEM_DM2.0.pdf)  
-Galactic rotation curves arise from **R-gradients**, not dark matter halos. Explains cored inner regions, transition shoulders, flat outer velocities, and MOND-like behavior as a slow-time regime (v/R ≪ 1).
-
-### **5. TEEM-BH 2.0 — Energetic Black Hole Physics**  
-[PDF](doc/TEEM_BH2.0.pdf)  
-Black hole horizons correspond to an R-critical surface where v/R → 0. Replaces the classical singularity with a finite-tension core. Explains entropy via boundary tension modes and demonstrates how information is preserved through R-reconfiguration.
-
-### **6. TEEM-Matter (TEEM-FT 3.0) — Energetic Interpretation of Light, Matter, and Measurement**  
-[PDF](doc/TEEM_Matter.pdf)  
-The microphysical basis of TEEM, explaining optical propagation, material behavior, and measurement limits:  
-• observation = injects vibrational energy, distorts the R-field  
-• light = oscillatory conversion between v and R  
-• material parameters = R-softness and R-stiffness  
-Establishes a direct continuity between atomic physics and cosmology.
+- **[NEO_TEEM.pdf](doc/NEO_TEEM.pdf)** — Foundations of the v–m–R framework  
+- **[NEO_TEEM_Cosmology.pdf](doc/NEO_TEEM_Cosmology.pdf)** — Expansion law, SN Ia, BAO, H₀ tension  
+- **[NEO_TEEM_BL.pdf](doc/NEO_TEEM_BL.pdf)** — Black holes, horizons, lensing, refraction  
+- **[NEO_TEEM_Matter.pdf](doc/NEO_TEEM_Matter.pdf)** — R‑Periodic Table, optical physics, quantum behavior
 
 ---
 
-## 🤝 Contributing & Discussion
+## ⚛️ Core Principle
 
-We welcome open discussion, rigorous debate, and verification.
+NEO‑TEEM is built on the information‑density ratio:
 
-- **Issues:** Report inconsistencies, propose tests, or request clarifications.  
-- **Pull Requests:** Improvements to English, diagrams, or mathematical modeling are appreciated.
+`I = R / m`
+
+Gravity, time flow, lensing, and cosmic expansion all arise from gradients or evolution of this ratio.
+
+- **Gravity = −∇(R/m)**  
+- **Time = v / R**  
+- **Cosmic expansion = dR/dt**  
+- **Dark‑matter‑like effects = m → R conversion**  
+- **Optical refraction = R‑gradients**  
+- **Black‑hole horizons = R/m → minimum**
+
+This single mechanism unifies cosmology, matter physics, optics, and quantum behavior.
+
+---
+
+## 🚀 Key Empirical Results (2026)
+
+- **SN Ia (732 samples)**  
+  ΛCDM χ² = 3620.35  
+  NEO‑TEEM χ² = **2803.25**  
+  → **22% improvement**
+
+- **BAO tension resolved**  
+  R(z) plateau at z ≈ 0.5 reproduces observed 2–5% excess in `D_M`.
+
+- **Dark matter eliminated**  
+  Galactic rotation curves reproduced by **R‑field gradients**, not invisible mass.
+
+- **Periodic table unified**  
+  Metals → `R < 0`  
+  Gases → `R ≈ 0`  
+  Semiconductors → `R > 2`
+
+- **Black holes**  
+  Finite‑information cores, no singularities, horizon = R‑boundary layer.
+
+---
+
+## 🤝 Contributing
+
+Discussion, verification, and numerical tests are welcome.
 
 ---
 
 ## 📄 License
 
-This work is dedicated to the public domain under **CC0-1.0**.  
-Attribution to *NS (2026 May)* is appreciated but not required.
+Released under **CC0‑1.0**.  
+Attribution to *NS (2026)* is appreciated but not required.
 
 ---
 
 > *“The universe is not dark.  
-> It is a continuous exchange of energy—vibrating, condensing, and stretching itself into form.”*
+> It is structured by tension, vibration, and matter—  
+> exchanging energy across every scale.”*
