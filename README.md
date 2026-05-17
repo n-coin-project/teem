@@ -36,6 +36,8 @@ with a single physical quantity:
 - **[NEO_TEEM_BL.pdf](doc/NEO_TEEM_BL.pdf)** — Black holes, horizons, lensing, refraction  
 - **[NEO_TEEM_Matter.pdf](doc/NEO_TEEM_Matter.pdf)** — R‑Periodic Table, optical physics, quantum behavior
 
+- **[OMAKE_NEO_TEEM_AT.pdf](doc/OMAKE_NEO_TEEM_AT.pdf)** — A Personal View on the Origin of the Universe
+
 ---
 
 ## ⚛️ Core Principle
