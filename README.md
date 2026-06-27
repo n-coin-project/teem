@@ -1,92 +1,164 @@
-# 🌌 NEO‑TEEM  
-### A Unified Framework of Gravity, Time, Matter, and Cosmic Expansion  
+# 🌌 TEEM — Triphasic Energy Exchange Medium  
+### A Unified Physical Origin of Spacetime, Gravity, Black Holes, Quantum Dynamics, and Cosmic Expansion  
 **NS (2026)**
 
 ---
 
 ## 📖 About This Repository
 
-This repository contains the complete **NEO‑TEEM Series**,  
-a unified physical framework in which gravity, time, entropy, cosmic expansion,  
-black holes, matter, and light all emerge from the dynamics of three fundamental energy states:
+This repository contains the complete **TEEM Series**,  
+a unified physical framework in which **spacetime, gravity, quantum evolution, black holes,  
+dark matter, dark energy, and cosmic expansion** all emerge from the dynamics of a single physical substrate:
 
-- **v — vibrational energy**  
-- **m — condensed energy**  
-- **R — spatial information capacity (spatial tension)**
+# ⭐ The Triphasic ETR Medium (V–M–ETR)
 
-NEO‑TEEM replaces the fragmented structure of modern physics:
+TEEM replaces the fragmented structure of modern physics:
 
-- dark matter  
+- geometric curvature (GR)  
+- dark matter halos  
 - dark energy  
-- geometric curvature  
 - quantum measurement axioms  
-- optical material constants  
+- singularities  
+- horizon absorption  
+- vacuum-based cosmology  
 
-with a single physical quantity:
+with **three interacting energy phases**:
 
-# ⭐ **R — the spatial tension field**  
-(= the information capacity / scale of spacetime)
+- **V-phase** — analog wave energy  
+- **M-phase** — condensed/matter energy  
+- **ETR-phase** — digital spacetime substrate (density + update rate)
+
+Gravity, time flow, quantum evolution, and cosmic expansion all arise from  
+the **density and update dynamics** of the ETR medium.
 
 ---
 
-## 📚 Included Papers (click to open)
+## 📚 Included Papers
 
-- **[NEO_TEEM.pdf](doc/NEO_TEEM.pdf)** — Foundations of the v–m–R framework  
-- **[NEO_TEEM_Cosmology.pdf](doc/NEO_TEEM_Cosmology.pdf)** — Expansion law, SN Ia, BAO, H₀ tension  
-- **[NEO_TEEM_BL.pdf](doc/NEO_TEEM_BL.pdf)** — Black holes, horizons, lensing, refraction  
-- **[NEO_TEEM_Matter.pdf](doc/NEO_TEEM_Matter.pdf)** — R‑Periodic Table, optical physics, quantum behavior
-- **[OMAKE_NEO_TEEM_AT.pdf](doc/OMAKE_NEO_TEEM_AT.pdf)** — A Personal View on the Origin of the Universe
+### **1. TEEM_Triphasic_Spacetime_Medium.pdf**  
+Foundations of TEEM  
+- Unified Lagrangian for V, M, ETR  
+- Emergent Einstein equation  
+- TEEM Schrödinger & Klein-Gordon equations  
+- Physical origin of time, gravity, and the speed of light  
+- Dark matter = ETR deficit pressure  
+- Dark energy = ETR regeneration  
+- Big Bang = ETR collapse → cyclic universe
+
+👉 **[Open PDF](TEEM_Triphasic_Spacetime_Medium.pdf)**
+
+---
+
+### **2. TEEM_BH_MediumBasedResolution_v1.pdf**  
+Black Hole Physics  
+- Finite-density ETR core (no singularity)  
+- Non-zero internal time flow (no information loss)  
+- Semi-permeable refractive horizon  
+- Gravitational-wave echoes  
+- Modified Hawking radiation  
+- Stable residual core  
+- Observational signatures (GW, EHT, X-ray)
+
+👉 **[Open PDF](TEEM_BH_MediumBasedResolution_v1.pdf)**
+
+---
+
+### **3. TEEM_Unified_Medium_Cosmology_H0_GalacticGravity.pdf**  
+Cosmology & Galactic Dynamics  
+- SN Ia (1590 samples) fit with ΛCDM-level accuracy  
+- Natural resolution of the Hubble tension  
+- BAO & CMB acoustic scale consistency  
+- Rotation curves without dark matter  
+- Medium depletion coefficient a_E  
+- Collision-enhanced gravity (M51, Antennae, Mice)  
+- Unified cosmic expansion + galactic gravity
+
+👉 **[Open PDF](TEEM_Unified_Medium_Cosmology_H0_GalacticGravity.pdf)**
 
 ---
 
 ## ⚛️ Core Principle
 
-NEO‑TEEM is built on the information‑density ratio:
+TEEM is governed by two fundamental medium fields:
 
-`I = R / m`
+- **ETR density ρ_ETR(x,t)** → spatial tension / effective metric  
+- **ETR update rate U_ETR(x,t)** → local time flow  
 
-Gravity, time flow, lensing, and cosmic expansion all arise from gradients or evolution of this ratio.
+From these, all major physical phenomena emerge:
 
-- **Gravity = −∇(R/m)**  
-- **Time = v / R**  
-- **Cosmic expansion = dR/dt**  
-- **Dark‑matter‑like effects = m → R conversion**  
-- **Optical refraction = R‑gradients**  
-- **Black‑hole horizons = R/m → minimum**
+### Gravity  
+`g = −∇ρ_ETR`
 
-This single mechanism unifies cosmology, matter physics, optics, and quantum behavior.
+### Time flow  
+`dt = B · U_ETR(x,t)`
+
+### Wave propagation  
+`c_gw(x) = c · (U_ETR/U₀) · (ρ_ETR/ρ₀)^β`
+
+### Cosmic expansion  
+`H²(z) = H₀² [ Ω_M (1+z)³ + Ω_ETR (1+z)^β ]`
+
+### Dark matter (effective)  
+`DM-like gravity = −∇ρ_ETR(depletion)`
+
+### Dark energy (effective)  
+`Λ = E · V_background`
 
 ---
 
 ## 🚀 Key Empirical Results (2026)
 
-- **Type Ia Supernovae (732 samples)**  
-  ΛCDM: χ² = 3620.35  
-  NEO‑TEEM: χ² = **2803.25**  
-  → **22% improvement in fit quality**
+### Cosmology
+- SN Ia fit: **H₀ = 69.58**, Ω_M = 0.326, Ω_ETR = 0.771, β = 0.363  
+- Local vs global H₀: **78.88 vs 68.06**  
+- BAO distances reproduced  
+- CMB acoustic angle: **θ\* = 0.011094 rad**
 
-- **BAO Distance Excess**  
-  R(z) plateau at z ≈ 0.5 naturally reproduces the observed  
-  **2–5% excess in transverse BAO distances (D_M)**.
+### Galactic Gravity
+- Rotation curves reproduced with **a_E ≈ 148.6**  
+- No dark matter halos required  
+- Galaxy collisions increase a_E → enhanced gravity
 
-- **Galactic Rotation Curves (No Dark Matter)**  
-  Flat rotation curves reproduced by **R‑field gradients**,  
-  without invoking invisible mass components.
+### Black Holes
+- Finite-density ETR core  
+- No singularity  
+- Non-zero internal time  
+- Semi-permeable horizon  
+- Gravitational-wave echoes (0.03–0.05 ms)  
+- Modified Hawking radiation  
+- Stable remnant
 
-- **R‑Periodic Table (Matter Unification)**  
-  Metals → **R < 0**  
-  Gases → **R ≈ 0**  
-  Semiconductors / crystals → **R > 2**
+### Quantum Dynamics
+- Schrödinger equation modified by U_ETR  
+- Klein-Gordon mass term modified by ρ_ETR  
+- Medium-induced redshift & dispersion
 
-- **Black Hole Structure**  
-  Finite‑information cores, no singularities,  
-  horizon = **steepest R/m boundary layer**.
+---
+
+## 🧩 Unified Picture
+
+TEEM provides a single physical origin for:
+
+- spacetime geometry  
+- gravitational attraction  
+- quantum evolution  
+- black hole structure  
+- dark matter phenomena  
+- dark energy  
+- cosmic acceleration  
+- Hubble tension  
+- galaxy rotation curves  
+- gravitational-wave echoes  
+- CMB anomalies  
+- cyclic cosmology  
+
+All emerging from **one medium**.
 
 ---
 
 ## 🤝 Contributing
 
-Discussion, verification, and numerical tests are welcome.
+Discussion, verification, numerical tests, and independent simulations are welcome.
 
 ---
 
@@ -97,6 +169,6 @@ Attribution to *NS (2026)* is appreciated but not required.
 
 ---
 
-> *“The universe is not dark.  
-> It is structured by tension, vibration, and matter—  
-> exchanging energy across every scale.”*
+> *“Spacetime is not geometry.  
+> It is a medium—updating, exchanging, evolving—  
+> and everything we observe is its vibration.”*
